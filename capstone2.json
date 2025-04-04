@@ -1,5 +1,6 @@
 {
 	"expiredUrl": "http://ec2-3-145-9-198.us-east-2.compute.amazonaws.com/",
+	"url": "https://capstone-2-t38q.onrender.com",
 	"routesPrefix": {
 		"users": "/b4/users",
 		"products": "/b4/products",
