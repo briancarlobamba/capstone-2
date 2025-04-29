@@ -7,13 +7,3 @@ Capstone 2 is a RESTful E-commerce API developed using Node.js, Express.js, and 
 ## Application Name
 
 **Capstone 2: E-commerce API**
-
-## User Credentials
-
-### Admin User
-- **Email:** admin@email.com
-- **Password:** admin123
-
-### Dummy Customer
-- **Email:** customer@mail.com
-- **Password:** customer123
